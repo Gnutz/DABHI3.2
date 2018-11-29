@@ -1,0 +1,20 @@
+{
+  "PersonId": 1,
+  "FirstName": "First name",
+  "MiddleName": "Middle Name",
+  "Surname": "Surname",
+  "Address": {
+    "AddressID": 1,
+    "Street": "Street",
+    "HouseNumber": "Number",
+    "City": {
+      "CityID": 1,
+      "CityName": "City name",
+      "ZipCode": "Zip code"
+    }
+  },
+  "EmaiAddress": {
+      "EmailAddressID": 1,
+      "EmailAddress": "email@emai.com"
+    }
+}
